@@ -1,5 +1,3 @@
-
-=======
 # Default nginx basic 
 ## Bài 1
  Triển khai deployment chạy nginx (default) lên kubernetes và cho phép truy cập từ bên ngoài thông qua nodePort. 
@@ -41,5 +39,5 @@
 
         ![](images/img7.png) 
 
->>>>>>> d8fdbe0 (Initial commit)
+
 
