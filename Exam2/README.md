@@ -41,7 +41,8 @@ tại https://gist.github.com/mockra/9062657 )
         ![](images/img11.png)
 
 5. Truy cập trang web 
-    - Truy cập được từ localhost 
+    - Truy cập được từ localhost
+      
         ![](images/img6.png)
 
         ![](images/img8.png)
