@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # Default nginx basic 
 ## Bài 1
